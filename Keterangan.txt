@@ -1,0 +1,5 @@
+Login admin di /admin
+user: admin
+pass:smk
+
+koneksi database pass kosong.
